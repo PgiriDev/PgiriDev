@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prakash Giri and I'm a Student, from Brainware University</h2>
+<h2 align="left">Hi 👋! My name is Prakash Giri and I'm a Web Developer from Sundarban.</h2>
 
 ###
 
